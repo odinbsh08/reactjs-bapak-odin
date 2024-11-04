@@ -16,7 +16,7 @@ let output = document.querySelector('.output');
 
 form.onsubmit = async (ev) => {
   ev.preventDefault();
-  output.textContent = 'Membaca Khodam...';
+  output.textContent = 'Membaca khodam...';
 
   try {
     // Assemble the prompt 
