@@ -1,0 +1,1 @@
+Bapak Odin suaminya Freya pacarnya Olif
